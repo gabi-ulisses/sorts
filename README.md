@@ -21,7 +21,7 @@ Os tamanhos dos vetores testados foram: `1.000`, `100.000` e `1.000.000` element
 
 ## Implementação 👾
 
-A implementação do programa foi realizada em C, com base nos estudos conduzidos pelo professor Ednilson e na análise comparativa de SOUZA, Jackson EG; RICARTE, João Victor G.; e DE ALMEIDA LIMA, Náthalee Cavalcanti. Adicionamos contadores que registram o número de comparações, trocas e o tempo de execução, permitindo uma análise detalhada do desempenho de cada algoritmo.
+A implementação do programa foi realizada em C, com base nos estudos conduzidos pelo professor Ednilson e na análise comparativa de SOUZA, Jackson EG; RICARTE, João Victor G.; e DE ALMEIDA LIMA, Náthalee Cavalcanti. Foram adicionados contadores que registram o número de comparações, trocas e o tempo de execução, permitindo uma análise detalhada do desempenho de cada algoritmo.
 
 Para gerenciar e compilar o projeto em diferentes diretórios, foi criado um **Makefile** que organiza a compilação de todos os arquivos, garantindo uma execução eficiente do programa.
 
